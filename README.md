@@ -12,7 +12,7 @@ How to run
 Firstly download or clone this repo and then move into the project folder as shown below;
 
 ```bash
-$-> git clone https://github.com/Kalebu/Digital-clock-in-Python
+$-> git clone https://github.com/dminiac/Python-project.git
 $-> cd Digital-clock-in-Python
 $ Digital-clock-in-Python -> python app.py
 ```
@@ -25,9 +25,7 @@ Once you run the code, it will render the output similar to what shown below;
 
 
 
-This code is the continuation of a series of Python tutorial published 
-on [my blog](kalebujordan.com), and the full article with code for can 
-be found on [Make a Digital Clock](https://kalebujordan.com/how-to-make-a-digital-clock-in-python/)
+
 
 
 Give it a star :tada:
